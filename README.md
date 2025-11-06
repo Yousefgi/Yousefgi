@@ -19,8 +19,7 @@
 ### 🧩 Projects
 
 #### 💼 Major Projects
-- 🔹 [**Software-Project**](https://github.com/Yousefgi/Software-Project) — A full-stack system for managing software requirements.
-- 🔹 [**RentItOut**](https://github.com/Yousefgi/RentItOut) — A platform for renting items with Node.js and PostgreSQL.
+- 🔹 [**RentItOut**](https://github.com/Yousefgi/RentItOut) — A platform for renting items with Node.js and mySQL.
 
 #### 💡 JavaScript Projects
 - 🔹 [**JavaScript Tasks**](https://github.com/Yousefgi/javascript-tasks)
