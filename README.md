@@ -6,11 +6,20 @@
 
 ## 🧠 Projects
 Here are some of my top public repositories:
-
-- 🔹 [Software-Mobile](https://github.com/Yousefgi/Software-Mobile)
 - 🔹 [Software-Project](https://github.com/Yousefgi/Software-Project)
 - 🔹 [RentItOut](https://github.com/Baker-Yaeesh/RentItOut)
-- 🔹 [Vet Care System](https://github.com/Baker-Yaeesh/nablus-vet-care-system)
+
+
+## Some javascript Project:
+- 🔹 [JavaScript](https://github.com/Yousefgi/javascript-tasks/tree/yousef_branch).
+
+## Some react Project:
+- 🔹 [React](https://github.com/raghad-abu-lebdeh/react-js-tasks/tree/yousef_branch)
+- 🔹 [React-2](https://github.com/raghad-abu-lebdeh/react-js-tasks/tree/task-4)
+- 🔹 [React-3](https://github.com/raghad-abu-lebdeh/react-js-tasks/tree/yousef_branch)
+
+
+
 
 ## 📫 Contact
 - Email: salmanyousef851@gmail.com  
