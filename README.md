@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Yousef Salman
 
-<!--
-**Yousefgi/Yousefgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at An-Najah National University  
+💻 Passionate about Web & Mobile Development using React, Node.js, and PostgreSQL  
+🤖 Interested in AI & Backend Systems  
 
-Here are some ideas to get you started:
+## 🧠 Projects
+Here are some of my top public repositories:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔹 [Software-Mobile](https://github.com/Yousefgi/Software-Mobile)
+- 🔹 [Software-Project](https://github.com/Yousefgi/Software-Project)
+- 🔹 [RentItOut](https://github.com/Baker-Yaeesh/RentItOut)
+- 🔹 [Vet Care System](https://github.com/Baker-Yaeesh/nablus-vet-care-system)
+
+## 📫 Contact
+- Email: salmanyousef851@gmail.com  
+- LinkedIn: [linkedin.com/in/yousef-salman](https://linkedin.com/in/yousef-salman)
+
