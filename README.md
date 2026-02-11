@@ -28,7 +28,9 @@
 - 🔹 [**React**](https://github.com/Yousefgi/React)
 - 🔹 [**React-2**](https://github.com/Yousefgi/React-2)
 - 🔹 [**React-3**](https://github.com/Yousefgi/React-3)
-
+- 🔹 [**React-4/Software-Project-backend**](https://github.com/Yousefgi/React-3)
+- 🔹 [**React-5/Software-Project-frontend**](https://github.com/Yousefgi/React-3)
+- 🔹 [**React-Native/Software-Project-mobile**](https://github.com/Yousefgi/React-3)
 ---
 
 ### 🛠️ Tech Stack
