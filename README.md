@@ -43,7 +43,7 @@
 
 ### 📫 Contact Me
 - 📧 **Email:** [salmanyousef851@gmail.com](mailto:salmanyousef851@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yousef-salman](www.linkedin.com/in/yousef-salman-19a165282)
+- 💼 **LinkedIn:** [linkedin.com/in/yousef-salman](www.linkedin.com/in/yousef-salman-19a165282)--19a165282
 
 ---
 
