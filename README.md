@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Yousef Salman</h1>
 
 <p align="center">
-🎓 Computer Engineering Student at <b>An-Najah National University</b><br/>
+🎓 Computer Engineering graduated from <b>An-Najah National University</b><br/>
 💻 Passionate about <b>Web & Mobile Development</b> using React, Node.js, and PostgreSQL<br/>
 🤖 Interested in <b>AI & Backend Systems</b>
 </p>
@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-- 👨‍💻 I'm a 4th-year Computer Engineering student.
+- 🎓 Computer Engineering graduated from <b>An-Najah National University</b><br/>
 - 🌱 Currently improving my skills in **React Native** and **Express.js**.
 - 🚀 I enjoy building **modern, scalable web & mobile apps**.
 - ⚡ Fun fact: I love turning complex ideas into simple, efficient code.
