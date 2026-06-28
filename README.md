@@ -31,7 +31,7 @@ build the website with team using cursor ai
 
    [**Website**](https://bria.ai/)
 
-🔗 [**Repository**](https://github.com/Yousefgi/bfia-ai-website)
+Private Repository (ITG Company)
 
 ✔ Responsive UI
 
