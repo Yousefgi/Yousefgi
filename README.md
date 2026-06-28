@@ -1,19 +1,23 @@
-<h1 align="center">👋 Hi, I'm Yousef Salman</h1>
+Hi  I'm Yousef Salman
 
-<p align="center">
-🎓 Computer Engineering graduated from <b>An-Najah National University</b><br/>
-💻 Passionate about <b>Web & Mobile Development</b> using React, Node.js, and PostgreSQL<br/>
-🤖 Interested in <b>AI & Backend Systems</b>
-</p>
+Front-End Developer specializing in React.js, TypeScript, and modern web applications.
 
+ Computer Engineering Graduate
+ Nablus, Palestine
+ Open to Front-End / React opportunities
 ---
 
-### 🧠 About Me
-- 🎓 Computer Engineering graduated from <b>An-Najah National University</b><br/>
-- 🌱 Currently improving my skills in **React Native** and **Express.js**.
-- 🚀 I enjoy building **modern, scalable web & mobile apps**.
-- ⚡ Fun fact: I love turning complex ideas into simple, efficient code.
+##  About Me
 
+I'm a Computer Engineering graduate passionate about building modern web applications using React.js, TypeScript, and Node.js.
+
+I completed 320 hours of professional Front-End training at ITG, where I worked on the Bria AI Website and collaborated with a development team.
+
+Currently improving my skills in:
+
+• React Native
+• Express.js
+• Advanced TypeScript
 ---
 
 ### 🧩 Projects
