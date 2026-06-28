@@ -20,10 +20,10 @@ Currently improving my skills in:
 • Advanced TypeScript , etc....
 ---
 
-### 🧩 Projects
+###  Projects
 
 
-## 🌟 Bria AI Website
+##  Bria AI Website
 
 build the website with team using cursor ai
 
@@ -42,7 +42,7 @@ build the website with team using cursor ai
 
 
 
-## 🏋️ Nablus Fit Care System
+##  Nablus Fit Care System
 
 **React.js • TypeScript • REST API**
 
@@ -79,7 +79,7 @@ Backend system for an item rental platform.
 
 
 
-## 📱 Mobile Application
+##  Mobile Application
 
 **React Native • Expo • TypeScript**
 
@@ -95,7 +95,7 @@ Cross-platform mobile application built with Expo.
 - API Integration
 - Responsive UI
 
-## 🤖 Customer Churn Prediction
+##  Customer Churn Prediction
 
 **Python • Machine Learning • Pandas • Scikit-learn**
 
@@ -111,7 +111,7 @@ Machine learning project for customer churn prediction using data analysis and p
 - Prediction
 - Visualization
 
-## ⚛️ React & JavaScript Projects
+##  React & JavaScript Projects
 
 🔗 [**Repository**](https://github.com/Yousefgi/react-and-java-script-projects)
 
@@ -119,17 +119,17 @@ Collection of frontend projects developed during the ITG Front-End training.
 
 ### Included Projects
 
-- ✅ Todo List
-- ✅ Online Quiz
-- ✅ Guess Game
-- ✅ JavaScript Challenges
-- ✅ DOM Manipulation
-- ✅ API Fetching
+-  Todo List
+-  Online Quiz
+-  Guess Game
+-  JavaScript Challenges
+-  DOM Manipulation
+-  API Fetching
 
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,typescript,js,html,css,git,github,vscode" />
@@ -137,9 +137,9 @@ Collection of frontend projects developed during the ITG Front-End training.
 
 ---
 
-### 📫 Contact Me
-- 📧 **Email:** [salmanyousef851@gmail.com](mailto:salmanyousef851@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yousef-salman](www.linkedin.com/in/yousef-salman-19a165282)-19a165282
+###  Contact Me
+-  **Email:** [salmanyousef851@gmail.com](mailto:salmanyousef851@gmail.com)  
+-  **LinkedIn:** [linkedin.com/in/yousef-salman](www.linkedin.com/in/yousef-salman-19a165282)-19a165282
 
 ---
 
