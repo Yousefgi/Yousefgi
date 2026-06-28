@@ -46,7 +46,7 @@ Private Repository (ITG Company)
 
 **React.js • TypeScript • REST API**
 
-🔗 [**Live Demo**](https://repository.najah.edu/items/eed58921-1861-46b8-b155-abcdefe61816)
+🔗 [**Graduation Project Documentation**](https://repository.najah.edu/items/eed58921-1861-46b8-b155-abcdefe61816)
 🔗 [**Repository**](https://github.com/Baker-Yaeesh/nablus-vet-care-system)
 
 A modern fitness management web application developed as the web version of our graduation project.
