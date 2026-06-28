@@ -23,6 +23,25 @@ Currently improving my skills in:
 ### 🧩 Projects
 
 
+## 🌟 Bria AI Website
+
+build the website with team using cursor ai
+
+**React.js • TypeScript • Sanity CMS**
+
+   [**Website**](https://bria.ai/)
+
+🔗 [**Repository**](https://github.com/Yousefgi/bfia-ai-website)
+
+✔ Responsive UI
+
+✔ CMS Integration
+
+✔ Git Collaboration
+
+
+
+
 ## 🏋️ Nablus Fit Care System
 
 **React.js • TypeScript • REST API**
