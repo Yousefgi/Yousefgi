@@ -17,24 +17,97 @@ Currently improving my skills in:
 
 • React Native
 • Express.js
-• Advanced TypeScript
+• Advanced TypeScript , etc....
 ---
 
 ### 🧩 Projects
 
-#### 💼 Major Projects
-- 🔹 [**RentItOut**](https://github.com/Yousefgi/RentItOut) — A platform for renting items with Node.js and mySQL.
 
-#### 💡 JavaScript Projects
-- 🔹 [**JavaScript Tasks**](https://github.com/Yousefgi/javascript-tasks)
+## 🏋️ Nablus Fit Care System
 
-#### ⚛️ React Projects
-- 🔹 [**React**](https://github.com/Yousefgi/React)
-- 🔹 [**React-2**](https://github.com/Yousefgi/React-2)
-- 🔹 [**React-3**](https://github.com/Yousefgi/React-3)
-- 🔹 [**React-4/Software-Project-backend**](https://github.com/Baker-Yaeesh/nablus-vet-care-system)
-- 🔹 [**React-5/Software-Project-frontend**](https://github.com/Baker-Yaeesh/nablus-vet-care-system)
-- 🔹 [**React-Native/Software-Project-mobile**](https://github.com/Baker-Yaeesh/nablus-vet-care-system)
+**React.js • TypeScript • REST API**
+
+🔗 [**Live Demo**](https://repository.najah.edu/items/eed58921-1861-46b8-b155-abcdefe61816)
+🔗 [**Repository**](https://github.com/Baker-Yaeesh/nablus-vet-care-system)
+
+A modern fitness management web application developed as the web version of our graduation project.
+
+### Features
+
+- Authentication
+- Responsive UI
+- Member Management
+- Trainer Dashboard
+- Workout Management
+- API Integration
+
+
+## 🛒 RentItOut Backend
+
+**Node.js • Express.js • PostgreSQL**
+
+🔗 [**Repository**](https://github.com/Baker-Yaeesh/RentItOut)
+
+Backend system for an item rental platform.
+
+### Features
+
+- JWT Authentication
+- REST APIs
+- CRUD Operations
+- PostgreSQL Database
+- File Upload
+
+
+
+## 📱 Mobile Application
+
+**React Native • Expo • TypeScript**
+
+🔗 [**Live Demo**](https://drive.google.com/file/d/1kUlswSVpCjhNf4rQTYQX8o2HMfCEqpvm/view?usp=sharing) 
+🔗 [**Repository**](https://github.com/Yousefgi/Software-Mobile)
+
+Cross-platform mobile application built with Expo.
+
+### Features
+
+- Cross-platform
+- Navigation
+- API Integration
+- Responsive UI
+
+## 🤖 Customer Churn Prediction
+
+**Python • Machine Learning • Pandas • Scikit-learn**
+
+🔗 [**Repository**](https://github.com/OmarJarbou/Customer-Churn)
+
+Machine learning project for customer churn prediction using data analysis and predictive models.
+
+### Features
+
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Prediction
+- Visualization
+
+## ⚛️ React & JavaScript Projects
+
+🔗 [**Repository**](https://github.com/Yousefgi/react-and-java-script-projects)
+
+Collection of frontend projects developed during the ITG Front-End training.
+
+### Included Projects
+
+- ✅ Todo List
+- ✅ Online Quiz
+- ✅ Guess Game
+- ✅ JavaScript Challenges
+- ✅ DOM Manipulation
+- ✅ API Fetching
+
+
 ---
 
 ### 🛠️ Tech Stack
