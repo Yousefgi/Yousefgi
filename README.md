@@ -25,7 +25,7 @@ Currently improving my skills in:
 
 ##  Bria AI Website
 
-build the website with team using cursor ai
+Collaborated with a development team to build the Bria AI website using React.js, TypeScript, and Cursor AI.
 
 **React.js • TypeScript • Sanity CMS**
 
