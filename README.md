@@ -22,6 +22,35 @@ Currently improving my skills in:
 
 ###  Projects
 
+## 🛍️ ShopHub – Full-Stack E-Commerce Platform
+
+**ASP.NET Core 10 • React 19 • TypeScript • PostgreSQL • Docker**
+
+🌐 **Live Demo**  
+https://shophub-client.vercel.app
+
+📦 **Repository**  
+https://github.com/Yousefgi/ShopHub
+
+📄 **API Documentation (Swagger)**  
+https://shophub-iurs.onrender.com/swagger
+
+A modern full-stack e-commerce platform built using ASP.NET Core Web API and React following Clean Architecture principles.
+
+### Features
+
+- JWT Authentication & Role-Based Authorization
+- Product, Category, and Order Management
+- Admin Dashboard
+- Shopping Cart & Checkout
+- Inventory Management with Automatic Stock Reduction
+- PostgreSQL Database
+- REST API
+- Docker Deployment
+- Responsive React UI
+
+---
+
 
 ##  Bria AI Website
 
@@ -113,18 +142,7 @@ Machine learning project for customer churn prediction using data analysis and p
 
 ##  React & JavaScript Projects
 
-🔗 [**Repository**](https://github.com/Yousefgi/react-and-java-script-projects)
-
-Collection of frontend projects developed during the ITG Front-End training.
-
-### Included Projects
-
--  Todo List
--  Online Quiz
--  Guess Game
--  JavaScript Challenges
--  DOM Manipulation
--  API Fetching
+🔗
 
 
 ---
